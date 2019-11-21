@@ -4,3 +4,6 @@ def divmod_a2b(a, b):
     else:
         result = a % b
     return result
+
+print("hello rbyang")
+
